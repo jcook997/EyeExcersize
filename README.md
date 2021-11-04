@@ -1,3 +1,3 @@
 # Eye Excersize
 
-In this excersize, we requested an API key and fetched data from URLs. We added map markers and created a tracker to track the buses between MIT and Harvard.
+In this excersize, we styled the gric programmatically and animated style application. We used Javascript, HTML, and CSS to create a set of eyes that folow where the cursor moves. 
